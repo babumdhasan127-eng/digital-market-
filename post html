@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+  <meta charset="UTF-8">
+  <title>Post - Digital Market</title>
+</head>
+<body>
+  <h1>Create a Post</h1>
+  <form>
+    <label>Post Title:</label>
+    <input type="text" name="title"><br><br>
+    <label>Content:</label><br>
+    <textarea name="content" rows="5" cols="40"></textarea><br><br>
+    <button type="submit">Publish</button>
+  </form>
+  <p><a href="index.html">← Back to Home</a></p>
+</body>
+</html>
